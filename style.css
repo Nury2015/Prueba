@@ -1,5 +1,22 @@
 img{
 
 width: 200px;
-height: 200px;
+height: 200px;  
+}
+
+body{
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+.card{
+    width: 250px;
+    height: 500px;
+}
+.contenido{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
 }
